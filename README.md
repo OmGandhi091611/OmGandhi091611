@@ -1,21 +1,19 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8ef7,100:a78bfa&height=160&section=header&text=Hey,%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Research%20Engineer%20%7C%20Building%20at%20the%20frontier&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8ef7,100:a78bfa&height=160&section=header&text=Hey,%20I'm%20Om%20Gandhi%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Research%20Engineer%20%7C%20Building%20at%20the%20frontier&descAlignY=58&descSize=18" />
 
 <!-- Typing Animation -->
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4f8ef7&center=true&vCenter=true&width=600&lines=Research+Engineer+%F0%9F%94%AC;Open+Source+Contributor+%F0%9F%8C%90;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://github.com/OmGandhi091611">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4f8ef7&center=true&vCenter=true&width=600&lines=Research+Engineer+%F0%9F%94%AC;Blockchain+%26+Distributed+Systems+Enthusiast+%E2%9B%93;Open+Source+Contributor+%F0%9F%8C%90;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=4f8ef7&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=OmGandhi091611&style=flat-square&color=4f8ef7&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
-[![Personal Site](https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OmGandhi091611)
 
 </div>
 
@@ -24,19 +22,19 @@
 ## 🧠 About Me
 
 ```yaml
-name:         "[Your Name]"
+name:         "Om Amit Gandhi"
 role:         "Research Engineer"
-location:     "[City, Country]"
+location:     "Chicago, Illinois, United States"
 interests:
   - Machine Learning & Deep Learning
+  - Blockchain Sharding & Distributed Systems
   - Systems Research
   - Open Source
-  - [Your specific research area]
 currently:
-  working_on: "[Your current project or company]"
-  learning:   "[Something you're exploring]"
-  reading:    "[A paper or book]"
-fun_fact:     "[Something interesting about you]"
+  working_on: "Blockchain Sharding Simulations"
+  learning:   "Benchmarking and automating benchmarks"
+  reading:    "Dark Matter (physics novel)"
+fun_fact:     "I play the flute and love to sing 🎵"
 ```
 
 ---
@@ -70,13 +68,13 @@ fun_fact:     "[Something interesting about you]"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=4f8ef7&icon_color=a78bfa&text_color=24292f" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&title_color=4f8ef7&text_color=24292f&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmGandhi091611&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=4f8ef7&icon_color=a78bfa&text_color=24292f" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmGandhi091611&layout=compact&theme=default&hide_border=true&title_color=4f8ef7&text_color=24292f&langs_count=8" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true&ring=4f8ef7&fire=a78bfa&currStreakLabel=4f8ef7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmGandhi091611&theme=default&hide_border=true&ring=4f8ef7&fire=a78bfa&currStreakLabel=4f8ef7" />
 </div>
 
 ---
@@ -85,10 +83,21 @@ fun_fact:     "[Something interesting about you]"
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=default&hide_border=true&title_color=4f8ef7&icon_color=a78bfa)](https://github.com/YOUR_USERNAME/YOUR_REPO_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=default&hide_border=true&title_color=4f8ef7&icon_color=a78bfa)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
+[![Sharding Simulations](https://github-readme-stats.vercel.app/api/pin/?username=OmGandhi091611&repo=Sharding_Simulations&theme=default&hide_border=true&title_color=4f8ef7&icon_color=a78bfa)](https://github.com/OmGandhi091611/Sharding_Simulations)
+
+[![Gandhi Music Player](https://github-readme-stats.vercel.app/api/pin/?username=OmGandhi091611&repo=gandhi-music-player&theme=default&hide_border=true&title_color=4f8ef7&icon_color=a78bfa)](https://github.com/OmGandhi091611/gandhi-music-player)
+
+[![Apple Style Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=OmGandhi091611&repo=New-Apple-Style-portfolio&theme=default&hide_border=true&title_color=4f8ef7&icon_color=a78bfa)](https://github.com/OmGandhi091611/New-Apple-Style-portfolio)
 
 </div>
+
+### 🚀 Live Demos
+
+| Project | Stack | Live |
+|---------|-------|------|
+| 🎵 Gandhi Music Player | React + Vite, JS, CSS | [![Live](https://img.shields.io/badge/Live-gandhi--music--player-4f8ef7?style=flat-square&logo=vercel&logoColor=white)](https://gandhi-music-player.vercel.app) |
+| 🍎 Apple Style Portfolio | HTML, CSS, JS | [![Live](https://img.shields.io/badge/Live-portfolio-a78bfa?style=flat-square&logo=vercel&logoColor=white)](https://omamitgandhiportfolio.vercel.app) |
+| ⛓️ Sharding Simulations | Python | — research/simulation |
 
 ---
 
@@ -104,17 +113,17 @@ fun_fact:     "[Something interesting about you]"
 
 | Area | Details |
 |------|---------|
-| 🔭 Research | [What you're currently investigating] |
-| 🛠️ Building | [Project or tool you're working on] |
-| 📚 Reading | [Paper, book, or blog you're into] |
-| 💬 Ask me about | [Topics you love discussing] |
-| 🤝 Open to | Collaborations, research discussions, coffee chats |
+| 🔭 Research | Blockchain Sharding — scalability & simulation of distributed consensus |
+| 🛠️ Building | Automated benchmarking pipelines for sharding experiments |
+| 📚 Reading | *Dark Matter* by Blake Crouch |
+| 💬 Ask me about | Blockchain, distributed systems, ML, benchmarking |
+| 🤝 Open to | Collaborations, research discussions, coffee chats ☕ |
 
 ---
 
 <div align="center">
 
-*"[A quote you resonate with]"*
+*"The best way to predict the future is to build it."*
 
 <br/>
 
