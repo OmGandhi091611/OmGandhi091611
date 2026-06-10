@@ -45,14 +45,6 @@ fun_fact: "I play the flute and enjoy music 🎵"
 
 ---
 
-### 🎵 Gandhi Music Player
-- Built a responsive music platform using **React + Vite**
-- Designed for **smooth playback and intuitive UI**
-
-🔗 https://gandhi-music-player.vercel.app
-
----
-
 ### 🍎 Apple Style Portfolio
 - Interactive portfolio inspired by **desktop UI design**
 - Built with **HTML, CSS, and JavaScript**
