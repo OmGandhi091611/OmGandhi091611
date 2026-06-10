@@ -115,7 +115,9 @@ I'm open to:
 - Research collaborations
 
 📫 https://www.linkedin.com/in/omgandhi1611/
+
 ✉️ ogandhi1@hawk.illinoistech.edu
+
 📞 +1 (574) 300-6625
 
 ---
