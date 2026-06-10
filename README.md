@@ -9,7 +9,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=OmGandhi091611&style=flat-square&color=4f8ef7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omgandhi1611/)
 
 </div>
 
